@@ -66,7 +66,7 @@ type EngineerProfile = {
 │ Databases & In-Memory Stores │ PostgreSQL • MySQL • MongoDB • Redis                                    │
 │ DevOps & Developer Tools     │ Docker • Docker Compose • Git • GitHub • GitHub Actions • GitLab CI/CD │
 │ Tooling & ORMs               │ Postman • Prisma ORM                                                    │
-│ Concepts & Protocols         │ REST APIs • Microservices • Event-Driven (CQRS) • WebRTC • WebSockets  │
+│ Concepts & Protocols         │ REST APIs • Microservices • Event-Driven (CQRS) • WebRTC • WebSockets   │
 └──────────────────────────────┴─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -80,17 +80,17 @@ type EngineerProfile = {
 
 > *Explore my repositories on GitHub or view interactive demonstrations on my [Live Portfolio](https://sabbella-laharika-portfolio.vercel.app/).*
 
-- 🏥 **[MedEcho](https://github.com/SabbellaLaharika)** — AI-powered healthcare platform.
-- 🏛️ **[AI Climate Policy Debate Simulator](https://github.com/SabbellaLaharika)** — Multi-agent LLM debate simulator.
-- 📹 **[WebRTC Video Chat](https://github.com/SabbellaLaharika)** — Production WebRTC video chat platform.
-- 🎯 **[YOLOv8 Object Detection](https://github.com/SabbellaLaharika)** — Real-time object detection system.
-- 📝 **[AI Conversational Form Builder](https://github.com/SabbellaLaharika)** — Dynamic AI form generator.
-- 🏦 **[CQRS Banking System](https://github.com/SabbellaLaharika)** — Event Sourcing & CQRS banking system.
-- 💳 **[Production Payment Gateway](https://github.com/SabbellaLaharika)** — Secure transaction engine simulator.
-- 📁 **[MongoDB Collaborative Document Store](https://github.com/SabbellaLaharika)** — Collaborative document store backend.
-- 🌐 **[Notification Service](https://github.com/SabbellaLaharika)** — Distributed notification dispatcher.
-- 🔀 **[Prompt Router](https://github.com/SabbellaLaharika)** — Smart LLM prompt routing engine.
-- 🤖 **[Offline AI Chatbot](https://github.com/SabbellaLaharika)** — Privacy-focused quantized offline AI chatbot.
+- 🏥 **[MedEcho](https://github.com/SabbellaLaharika/MedEcho-Talk-Diagnose-Heal)** — AI-powered healthcare platform.
+- 🏛️ **[AI Climate Policy Debate Simulator](https://github.com/SabbellaLaharika/ClimateDebateAI)** — Multi-agent LLM debate simulator.
+- 📹 **[WebRTC Video Chat](https://github.com/SabbellaLaharika/MeshMeet)** — Production WebRTC video chat platform.
+- 🎯 **[YOLOv8 Object Detection](https://github.com/SabbellaLaharika/VisionDetect-API)** — Real-time object detection system.
+- 📝 **[AI Conversational Form Builder](https://github.com/SabbellaLaharika/Conversational-Form-Builder )** — Dynamic AI form generator.
+- 🏦 **[CQRS Banking System](https://github.com/SabbellaLaharika/Bank-Account-Management-System)** — Event Sourcing & CQRS banking system.
+- 💳 **[Production Payment Gateway](https://github.com/SabbellaLaharika/GPP-Task-5-Build-Production-Ready-Payment-Gateway-with-Async-Processing-and-Webhooks)** — Secure transaction engine simulator.
+- 📁 **[MongoDB Collaborative Document Store](https://github.com/SabbellaLaharika/ConflictFree-Versioned-Docs)** — Collaborative document store backend.
+- 🌐 **[Notification Service](https://github.com/SabbellaLaharika/NotifyCore)** — Distributed notification dispatcher.
+- 🔀 **[Prompt Router](https://github.com/SabbellaLaharika/LLM-Powered-Prompt-Router-for-Intent-Classification)** — Smart LLM prompt routing engine.
+- 🤖 **[Offline AI Chatbot](https://github.com/SabbellaLaharika/Privacy-First-E-commerce-Chatbot-with-Ollama-Llama-3.2)** — Privacy-focused quantized offline AI chatbot.
 
 <br />
 
