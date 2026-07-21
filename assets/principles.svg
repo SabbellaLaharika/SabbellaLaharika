@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 180" width="100%" height="100%">
+  <style>
+    .card { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #f0f6fc; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; }
+  </style>
+
+  <rect width="950" height="180" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Row 1 -->
+  <g transform="translate(16, 16)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">⚡ Docker-First Engine</text>
+    <text x="14" y="42" class="desc">Isolated, reproducible, and</text>
+    <text x="14" y="55" class="desc">production-ready runtime.</text>
+  </g>
+
+  <g transform="translate(248, 16)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">🏗️ Clean Architecture</text>
+    <text x="14" y="42" class="desc">Decoupled components,</text>
+    <text x="14" y="55" class="desc">SOLID &amp; Domain-Driven Design.</text>
+  </g>
+
+  <g transform="translate(480, 16)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">📈 Distributed Scalability</text>
+    <text x="14" y="42" class="desc">High throughput, horizontal</text>
+    <text x="14" y="55" class="desc">scaling &amp; async event queues.</text>
+  </g>
+
+  <g transform="translate(712, 16)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">🚀 Zero-Downtime Delivery</text>
+    <text x="14" y="42" class="desc">Automated CI/CD pipelines</text>
+    <text x="14" y="55" class="desc">and seamless releases.</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(16, 96)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">🔥 Latency &amp; Perf Tuning</text>
+    <text x="14" y="42" class="desc">Optimized DB queries, Redis</text>
+    <text x="14" y="55" class="desc">caching &amp; minimal overhead.</text>
+  </g>
+
+  <g transform="translate(248, 96)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">📚 Specification &amp; Docs</text>
+    <text x="14" y="42" class="desc">Comprehensive API specs,</text>
+    <text x="14" y="55" class="desc">OpenAPI/Swagger &amp; C4 diagrams.</text>
+  </g>
+
+  <g transform="translate(480, 96)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">🛡️ Resilient &amp; Fault Tolerant</text>
+    <text x="14" y="42" class="desc">Circuit breakers, retries,</text>
+    <text x="14" y="55" class="desc">and graceful fallback mechanisms.</text>
+  </g>
+
+  <g transform="translate(712, 96)">
+    <rect width="216" height="66" rx="6" class="card"/>
+    <text x="14" y="24" class="title">💡 Continuous Evolution</text>
+    <text x="14" y="42" class="desc">Adopting cutting-edge AI,</text>
+    <text x="14" y="55" class="desc">LLM frameworks &amp; Web3 Tech.</text>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Base -->
+    <rect id="bg" width="1000" height="320" rx="10" fill="#0d1117"/>
+    
+    <!-- Clean Grid Pattern -->
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+
+    <!-- Top Highlight Bar -->
+    <linearGradient id="top-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .status-text { font-size: 11px; fill: #7d8590; font-weight: 600; letter-spacing: 0.5px; }
+    .name { font-size: 36px; fill: #f0f6fc; font-weight: 700; letter-spacing: -0.5px; }
+    .role { font-size: 17px; fill: #38bdf8; font-weight: 600; }
+    .summary { font-size: 13.5px; fill: #8b949e; line-height: 1.5; }
+    .tag-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .tag-text { font-size: 11px; fill: #c9d1d9; }
+    .card-bg { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+    .card-label { font-size: 10px; fill: #7d8590; font-weight: 700; letter-spacing: 1px; }
+    .card-val { font-size: 13.5px; fill: #f0f6fc; font-weight: 600; }
+    .card-sub { font-size: 11px; fill: #38bdf8; }
+  </style>
+
+  <!-- Background Base -->
+  <use href="#bg" />
+  <rect width="1000" height="320" rx="10" fill="url(#grid)"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="1000" height="3" fill="url(#top-line)"/>
+
+  <!-- Status Badge -->
+  <g transform="translate(45, 36)">
+    <rect x="0" y="0" width="185" height="24" rx="12" class="tag-bg"/>
+    <circle cx="14" cy="12" r="4" fill="#3fb950"/>
+    <text x="26" y="16" class="sans status-text">ENGINEERING PROFILE</text>
+  </g>
+
+  <!-- Title & Intro -->
+  <text x="45" y="98" class="sans name">Sabbella Laharika</text>
+  <text x="45" y="128" class="sans role">Software Engineer • AI &amp; Distributed Systems</text>
+  
+  <text x="45" y="158" class="sans summary">Designing production-ready AI solutions, event-driven backends, and microservices.</text>
+  <text x="45" y="178" class="sans summary">Building scalable, fault-tolerant software systems with clean architecture.</text>
+
+  <!-- Technology Badges Row -->
+  <g transform="translate(45, 218)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="155" height="32" rx="6" class="tag-bg"/>
+    <text x="12" y="20" class="mono tag-text">🤖 AI &amp; ML Systems</text>
+
+    <!-- Tag 2 -->
+    <rect x="165" y="0" width="155" height="32" rx="6" class="tag-bg"/>
+    <text x="177" y="20" class="mono tag-text">⚡ Distributed Systems</text>
+
+    <!-- Tag 3 -->
+    <rect x="330" y="0" width="145" height="32" rx="6" class="tag-bg"/>
+    <text x="342" y="20" class="mono tag-text">🐳 Docker-First Dev</text>
+
+    <!-- Tag 4 -->
+    <rect x="485" y="0" width="150" height="32" rx="6" class="tag-bg"/>
+    <text x="497" y="20" class="mono tag-text">🏛️ Clean Architecture</text>
+  </g>
+
+  <!-- Sidebar Info Cards -->
+  <g transform="translate(710, 36)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="245" height="72" rx="6" class="card-bg"/>
+    <text x="14" y="24" class="sans card-label">DEGREE</text>
+    <text x="14" y="44" class="sans card-val">B.Tech in CSE</text>
+    <text x="14" y="60" class="sans card-sub">Computer Science &amp; Eng.</text>
+
+    <!-- Card 2 -->
+    <rect x="0" y="86" width="245" height="72" rx="6" class="card-bg"/>
+    <text x="14" y="110" class="sans card-label">CORE ARCHITECTURE</text>
+    <text x="14" y="130" class="sans card-val">Event-Driven &amp; Microservices</text>
+    <text x="14" y="146" class="sans card-sub">CQRS • REST APIs • gRPC</text>
+
+    <!-- Card 3 -->
+    <rect x="0" y="172" width="245" height="72" rx="6" class="card-bg"/>
+    <text x="14" y="196" class="sans card-label">DEPLOYMENT STANDARD</text>
+    <text x="14" y="216" class="sans card-val">Production Ready</text>
+    <text x="14" y="232" class="sans card-sub" fill="#3fb950">Dockerized • Documented</text>
+  </g>
+</svg>
