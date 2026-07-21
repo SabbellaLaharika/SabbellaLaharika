@@ -29,7 +29,7 @@
 
 > I am a **Software Engineer** passionate about building production-ready software systems using **Artificial Intelligence, Backend Engineering, Full Stack Development, and Distributed Systems**.
 >
-> Rather than building simple applications, I focus on engineering scalable, maintainable, and well-architected software solutions that solve real-world problems.
+> I focus on designing scalable, maintainable, and well-architected software solutions that solve real-world problems.
 
 ```typescript
 type EngineerProfile = {
@@ -37,11 +37,13 @@ type EngineerProfile = {
   role: "Software Engineer",
   education: "B.Tech in Computer Science Engineering",
   specializations: [
-    "Artificial Intelligence & LLMs",
-    "Distributed Backends & Microservices",
-    "Computer Vision & System Architecture"
+    "Artificial Intelligence",
+    "Backend Engineering",
+    "Full Stack Development",
+    "Distributed Systems",
+    "Computer Vision"
   ],
-  livePortfolio: "https://sabbella-laharika-portfolio.vercel.app/"
+  portfolio: "https://sabbella-laharika-portfolio.vercel.app/"
 };
 ```
 
