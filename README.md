@@ -64,7 +64,7 @@ type EngineerProfile = {
 │ Backend Engineering          │ Node.js • Express.js • Spring Boot • FastAPI • Flask                    │
 │ Frontend Development         │ React • HTML5 • CSS3 • Tailwind CSS • Vite • Bootstrap                  │
 │ Databases & In-Memory Stores │ PostgreSQL • MySQL • MongoDB • Redis                                    │
-│ DevOps & Developer Tools     │ Docker • Docker Compose • Git • GitHub • GitHub Actions • GitLab CI/CD │
+│ DevOps & Developer Tools     │ Docker • Docker Compose • Git • GitHub                                  │
 │ Tooling & ORMs               │ Postman • Prisma ORM                                                    │
 │ Concepts & Protocols         │ REST APIs • Microservices • Event-Driven (CQRS) • WebRTC • WebSockets   │
 └──────────────────────────────┴─────────────────────────────────────────────────────────────────────────┘
