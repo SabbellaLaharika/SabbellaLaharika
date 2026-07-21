@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="assets/hero-banner.svg" alt="Sabbella Laharika - Hero Banner" width="100%" />
+  <img src="assets/hero-banner.svg" alt="Sabbella Laharika - Engineering Profile" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://sabbella-laharika-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_PORTFOLIO-sabbella--laharika--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-sabbella--laharika--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://github.com/SabbellaLaharika">
+    <img src="https://img.shields.io/badge/GitHub-SabbellaLaharika-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/laharika-sabbella-791176258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:laharikasabbella@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-laharikasabbella@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -22,18 +25,23 @@
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-## 🎯 Executive Profile
+## 🎯 Engineering Identity
 
-> **Software Engineer** specializing in **Artificial Intelligence, Distributed Backends, and High-Throughput Microservices**. Building production-ready software systems with clean architecture, containerized runtimes, and low-latency API design.
+> I am a **Software Engineer** passionate about building production-ready software systems using **Artificial Intelligence, Backend Engineering, Full Stack Development, and Distributed Systems**.
+>
+> Rather than building simple applications, I focus on engineering scalable, maintainable, and well-architected software solutions that solve real-world problems.
 
 ```typescript
-type SystemsEngineer = {
+type EngineerProfile = {
   name: "Sabbella Laharika",
+  role: "Software Engineer",
   education: "B.Tech in Computer Science Engineering",
-  portfolio: "https://sabbella-laharika-portfolio.vercel.app/",
-  primaryFocus: ["AI Systems & LLMs", "Distributed Backends", "Event-Driven Microservices"],
-  engineeringStandards: ["Docker-First Runtime", "CQRS / Event Sourcing", "Clean Architecture"],
-  status: "Available for Software Engineering & AI Backend Roles"
+  specializations: [
+    "Artificial Intelligence & LLMs",
+    "Distributed Backends & Microservices",
+    "High-Concurrency System Architecture"
+  ],
+  livePortfolio: "https://sabbella-laharika-portfolio.vercel.app/"
 };
 ```
 
@@ -43,16 +51,19 @@ type SystemsEngineer = {
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-## ⚙️ Engineering Ecosystem
+## ⚙️ Technology Ecosystem
 
 ```
 ┌──────────────────────────────┬─────────────────────────────────────────────────────────────────────────┐
-│ Domain                       │ Core Stack & Capabilities                                               │
+│ Engineering Domain           │ Technologies & Tools                                                    │
 ├──────────────────────────────┼─────────────────────────────────────────────────────────────────────────┤
-│ AI & Autonomous Systems      │ LangChain • LlamaIndex • PyTorch • YOLOv8 • OpenCV • Prompt Routers     │
-│ Distributed Backends & APIs  │ Python (FastAPI/Flask) • Java (Spring Boot) • Node.js/TypeScript • gRPC│
-│ Databases & In-Memory Stores │ PostgreSQL • MongoDB • Redis (PubSub & Session Cache)                   │
-│ Architecture & DevOps        │ Microservices • Event Sourcing • CQRS • Docker & Compose • CI/CD        │
+│ Languages                    │ Python • Java • TypeScript • JavaScript • C++ • SQL                     │
+│ Artificial Intelligence      │ LangChain • LlamaIndex • PyTorch • TensorFlow • YOLOv8 • OpenCV         │
+│ Backend Engineering          │ FastAPI • Flask • Spring Boot • Express.js • Node.js • REST APIs • gRPC   │
+│ Frontend Development         │ React • Next.js • HTML5 • CSS3 • Tailwind CSS                           │
+│ Databases & Caching          │ PostgreSQL • MongoDB • Redis (Pub/Sub & Caching)                        │
+│ DevOps & Infrastructure      │ Docker • Docker Compose • Microservices • Distributed Systems           │
+│ Developer Tools              │ Git • GitHub • Postman • WebRTC • WebSockets                            │
 └──────────────────────────────┴─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -62,18 +73,22 @@ type SystemsEngineer = {
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-## 🌐 Selected Engineering Systems
+## 🚀 Featured Projects
 
-> 💡 **View full interactive demos, architecture diagrams, and system specs on my [Live Portfolio](https://sabbella-laharika-portfolio.vercel.app/)**
+> *Explore my repositories on GitHub or view interactive demonstrations on my [Live Portfolio](https://sabbella-laharika-portfolio.vercel.app/).*
 
-| System | Focus | Core Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **🏥 MedEcho** | AI Healthcare Diagnostic Platform | `FastAPI` `PyTorch` `Docker` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
-| **🏛️ AI Climate Debate Simulator** | Multi-Agent LLM Orchestration | `LangChain` `Redis` `FastAPI` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
-| **📹 WebRTC Video Chat** | Low-Latency P2P Video Platform | `WebRTC` `WebSockets` `Redis` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
-| **🏦 CQRS Banking Engine** | Event-Sourced Transaction System | `Java` `Spring Boot` `Kafka` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
-| **🎯 YOLOv8 Edge Detection** | Real-Time Computer Vision Pipeline | `YOLOv8` `PyTorch` `FastAPI` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
-| **🌐 Distributed Notification Service** | Multi-Channel Task Queue Engine | `TypeScript` `Redis (BullMQ)` | [**Explore Project →**](https://sabbella-laharika-portfolio.vercel.app/) |
+- 🏥 **[MedEcho](https://github.com/SabbellaLaharika)** — AI-powered healthcare diagnostic and assistant platform.
+- 🏛️ **[AI Climate Policy Debate Simulator](https://github.com/SabbellaLaharika)** — Multi-agent LLM framework executing policy debate simulations.
+- 📹 **[WebRTC Video Chat Platform](https://github.com/SabbellaLaharika)** — Low-latency peer-to-peer video streaming engine.
+- 🏦 **[CQRS Banking System](https://github.com/SabbellaLaharika)** — Event-sourced financial transaction processing backend.
+- 🎯 **[YOLOv8 Object Detection System](https://github.com/SabbellaLaharika)** — Real-time computer vision inference & streaming pipeline.
+- 🌐 **[Distributed Notification Service](https://github.com/SabbellaLaharika)** — Multi-channel transactional dispatcher with Redis task queues.
+- 📝 **[AI Conversational Form Builder](https://github.com/SabbellaLaharika)** — Dynamic AI form generator with real-time logic trees.
+- 📁 **[MongoDB Collaborative Document Store](https://github.com/SabbellaLaharika)** — Real-time collaborative document editor backend.
+- 🔀 **[Prompt Router](https://github.com/SabbellaLaharika)** — Smart LLM latency and cost optimization routing engine.
+- 🤖 **[Offline AI Chatbot](https://github.com/SabbellaLaharika)** — Privacy-focused quantized local LLM execution runtime.
+- ⛓️ **[Blockchain Oracle](https://github.com/SabbellaLaharika)** — Trustless off-chain to on-chain data bridge.
+- 💳 **[Production Payment Gateway](https://github.com/SabbellaLaharika)** — Transaction processing engine simulator.
 
 <br />
 
@@ -84,7 +99,7 @@ type SystemsEngineer = {
 ## 🛠️ Software Engineering Principles
 
 <div align="center">
-  <img src="assets/principles.svg" alt="Engineering Principles Matrix" width="100%" opacity="0.95" />
+  <img src="assets/principles.svg" alt="Engineering Principles Matrix" width="100%" />
 </div>
 
 <br />
@@ -93,15 +108,19 @@ type SystemsEngineer = {
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </div>
 
-## 📬 Connect & Experience
+## 📬 Connect
 
 <div align="center">
 
-### 👉 [**Visit My Live Portfolio Website**](https://sabbella-laharika-portfolio.vercel.app/) 👈
+**Explore my complete engineering portfolio with live interactive demos and architecture diagrams:**
 
-[**LinkedIn**](https://www.linkedin.com/in/laharika-sabbella-791176258/) • [**Email**](mailto:laharikasabbella@gmail.com) • [**GitHub Repositories**](https://github.com/SabbellaLaharika)
+### 🌐 [**sabbella-laharika-portfolio.vercel.app**](https://sabbella-laharika-portfolio.vercel.app/)
 
 <br />
 
-<sub>© Sabbella Laharika • Built with engineering rigor</sub>
+[**GitHub Profile**](https://github.com/SabbellaLaharika) • [**LinkedIn**](https://www.linkedin.com/in/laharika-sabbella-791176258/) • [**Email**](mailto:laharikasabbella@gmail.com)
+
+<br />
+
+<sub>© Sabbella Laharika • Software Engineer</sub>
 </div>
